@@ -1,0 +1,53 @@
+/* votre code CSS */
+body{
+  background-color: #CEE5F2;
+}
+.carte{
+  border: lightgrey solid 2px;
+  width: 600px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+h1 {
+  color: black;
+  font-size: 30px;
+  text-decoration: underline #CEE5F2;
+}
+.map{
+  display: flex;
+  justify-content: center;
+}
+#mapid { 
+  height: 500px; 
+  width: 550px;
+  border: darkgrey solid 1px;
+  border-radius: 5px;
+}
+body {
+  font-family: lato light;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+form{
+  padding-bottom: 20px;
+  width: 100%;
+}
+input{
+  height: 30px;
+  border: solid darkgrey 1px;
+  border-radius: 5px;
+  font-size: 13px;
+}
+.recherche{
+  width: 200px;
+}
+h2 {
+  text-decoration: underline #CEE5F2;
+}
+.bouton {
+  width: 100px;
+  height: 35px;
+  background-color: #CEE5F2;
+  border: none;
+}
